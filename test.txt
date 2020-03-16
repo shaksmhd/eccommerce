@@ -1,4 +1,5 @@
-this is shaka trying to learn web development 
-my teacher is a wonderful person 
-she said i should write something 
-but walahi i don't know what to right 
+Merge: simply means adding or commit to the master with changes made by a user so that other users using the same primary or master can see the change made….
+Pull Request: this request occurs when a user intends to merge recent changes to the master and needs approval from other users…..
+Master: this is the main branch where a user can commit, clone, fork or repo a work or document and it's the primary source or terminal…
+push : occur after u must have made your commit for pull request 
+Remote: it is like a server where users save their works...

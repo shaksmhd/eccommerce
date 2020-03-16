@@ -1,3 +1,4 @@
+
 Merge: simply means adding or commit to the master with changes made by a user so that other users using the same primary or master can see the change made….
 Pull Request: this request occurs when a user intends to merge recent changes to the master and needs approval from other users…..
 Master: this is the main branch where a user can commit, clone, fork or repo a work or document and it's the primary source or terminal…
